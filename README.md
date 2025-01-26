@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning in **DEPI**
 
-- 📝 I regularly write articles on www.linkedin.com/in/zeyad-waled-3504a9295 .
+- 📝 I regularly write articles on www.linkedin.com/in/zeyad-waled-3504a9295.
 
 - 📫 How to reach me **zeyadwaled165@gmail.com**
 
-- 📄 Know about my experiences https://www.canva.com/design/DAGXBjVtkX4/00rSUONzEzXUHmK8_gTrIg/edit?utm_content=DAGXBjVtkX4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton .
+- 📄 Know about my experiences https://www.canva.com/design/DAGXBjVtkX4/00rSUONzEzXUHmK8_gTrIg/edit?utm_content=DAGXBjVtkX4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
