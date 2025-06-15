@@ -28,7 +28,7 @@
 
 <br>
 
-## 🛠️ Tech Stack: (Front End Development) => void
+## 🛠️ Tech Stack => void
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,bootstrap,tailwind,figma,git,github,vscode" />
