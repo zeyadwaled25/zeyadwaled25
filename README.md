@@ -37,7 +37,7 @@
 
 <br>
 
-## 📈 GitHub Stats & Graphs
+## 📈 GitHub Stats
 
 
 <div align="center">
