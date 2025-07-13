@@ -17,7 +17,7 @@
 
 <br/>
 
-## 👨‍🎓 About Me
+## 👨‍🎓 About Me: 
 
 🎓 A student at the College of Artificial Intelligence, Junior Front-End Development Track  
 - 🎨 Experienced in building and designing effective user interfaces  
@@ -37,7 +37,7 @@
 
 <br>
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats: 
 
 
 <div align="center">
