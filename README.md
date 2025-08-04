@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=0CE82B&background=FFFFFF00&center=true&vCenter=true&width=800&lines=Welcome+to+Zeyad+Waled's+Profile!;Front-End+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=0CE82B&background=FFFFFF00&center=true&vCenter=true&width=800&lines=Welcome+to+Zeyad+Waled's+Profile!;Front-End+Developer+💻" />
 </div>
 
 
