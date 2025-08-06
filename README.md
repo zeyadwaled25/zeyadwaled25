@@ -31,7 +31,7 @@
 ## 🛠️ Tech Stack => void
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,bootstrap,tailwind,figma,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,ts,tailwind,redux,figma,git,github,vscode,postman" />
 </p>
 
 
