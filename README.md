@@ -30,33 +30,23 @@
 
 ## 🛠️ Tech Stack => void
 
-## 🛠 Tech Stack
-
 ### 🎨 Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,redux,framermotion,nextjs" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,redux,framermotion,nextjs" />
 
 ### 🖌 UI/UX
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,canva" />
-</p>
+<img src="https://skillicons.dev/icons?i=figma,canva" />
 
 ### ⚙️ Development Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,yarn" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,yarn" />
 
 ### 📊 Data & Machine Learning
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="80" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" width="80" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" width="40" height="40" />
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="80" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="80" height="40" />
-</p>
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://raw.githubusercontent.com/USERNAME/REPO/main/icons/pandas.svg" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/USERNAME/REPO/main/icons/numpy.svg" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/USERNAME/REPO/main/icons/matplotlib.svg" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/USERNAME/REPO/main/icons/seaborn.svg" width="40" height="40" />
+<img src="https://skillicons.dev/icons?i=jupyter" />
+<img src="https://raw.githubusercontent.com/USERNAME/REPO/main/icons/scikit-learn.svg" width="40" height="40" />
 
 
 <br>
