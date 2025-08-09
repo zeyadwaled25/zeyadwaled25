@@ -32,36 +32,31 @@
 
 ## 🛠 Tech Stack
 
-<style>
-  .skill-icon {
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-  }
-  .skill-icon:hover {
-    transform: scale(1.1);
-    box-shadow: 0px 4px 15px rgba(0,0,0,0.2);
-    border-radius: 8px;
-  }
-</style>
-
+### 🎨 Frontend
 <p align="center">
-  
-  <!-- Frontend -->
-  <strong>Frontend</strong><br/>
-  <img class="skill-icon" src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,redux,framermotion,nextjs" /><br/><br/>
-  
-  <!-- UI/UX -->
-  <strong>UI/UX</strong><br/>
-  <img class="skill-icon" src="https://skillicons.dev/icons?i=figma,canva" /><br/><br/>
-  
-  <!-- Development Tools -->
-  <strong>Development Tools</strong><br/>
-  <img class="skill-icon" src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" /><br/><br/>
-  
-  <!-- Data & ML -->
-  <strong>Data & Machine Learning</strong><br/>
-  <img class="skill-icon" src="https://skillicons.dev/icons?i=python,pandas,numpy,scikitlearn,matplotlib,seaborn,jupyter" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,redux,framermotion,nextjs" />
 </p>
 
+### 🖌 UI/UX
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,canva" />
+</p>
+
+### ⚙️ Development Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,yarn" />
+</p>
+
+### 📊 Data & Machine Learning
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="80" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" width="80" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" width="40" height="40" />
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="80" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="80" height="40" />
+</p>
 
 
 <br>
