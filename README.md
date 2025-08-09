@@ -30,23 +30,9 @@
 
 ## 🛠️ Tech Stack => void
 
-### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,redux,framermotion,nextjs" />
-
-### 🖌 UI/UX
-<img src="https://skillicons.dev/icons?i=figma,canva" />
-
-### ⚙️ Development Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,yarn" />
-
-### 📊 Data & Machine Learning
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://raw.githubusercontent.com/USERNAME/REPO/main/icons/pandas.svg" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/USERNAME/REPO/main/icons/numpy.svg" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/USERNAME/REPO/main/icons/matplotlib.svg" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/USERNAME/REPO/main/icons/seaborn.svg" width="40" height="40" />
-<img src="https://skillicons.dev/icons?i=jupyter" />
-<img src="https://raw.githubusercontent.com/USERNAME/REPO/main/icons/scikit-learn.svg" width="40" height="40" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,ts,tailwind,redux,nextjs,figma,git,github,vscode,postman,npm,python,sklearn" />
+</p>
 
 
 <br>
