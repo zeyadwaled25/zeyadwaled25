@@ -30,9 +30,38 @@
 
 ## 🛠️ Tech Stack => void
 
+## 🛠 Tech Stack
+
+<style>
+  .skill-icon {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  .skill-icon:hover {
+    transform: scale(1.1);
+    box-shadow: 0px 4px 15px rgba(0,0,0,0.2);
+    border-radius: 8px;
+  }
+</style>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,ts,tailwind,redux,figma,git,github,vscode,postman" />
+  
+  <!-- Frontend -->
+  <strong>Frontend</strong><br/>
+  <img class="skill-icon" src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,redux,framermotion,nextjs" /><br/><br/>
+  
+  <!-- UI/UX -->
+  <strong>UI/UX</strong><br/>
+  <img class="skill-icon" src="https://skillicons.dev/icons?i=figma,canva" /><br/><br/>
+  
+  <!-- Development Tools -->
+  <strong>Development Tools</strong><br/>
+  <img class="skill-icon" src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" /><br/><br/>
+  
+  <!-- Data & ML -->
+  <strong>Data & Machine Learning</strong><br/>
+  <img class="skill-icon" src="https://skillicons.dev/icons?i=python,pandas,numpy,scikitlearn,matplotlib,seaborn,jupyter" />
 </p>
+
 
 
 <br>
