@@ -60,14 +60,15 @@
 
 ### 🤝 Let's Connect & Collaborate!
 
-I'm always eager to take on new challenges and collaborate on innovative projects. Whether you're interested in:
+I’m always excited to take on new challenges and work on innovative ideas.
+Whether you’re looking to:
 
-- 🤖 Building scalable web applications
-- 🎨 Creating engaging user interfaces
-- 🔧 Solving complex technical problems
-- 📚 Sharing knowledge and best practices
+- 🤖 Build scalable and high-performance web applications
+- 🎨 Design engaging and user-friendly interfaces
+- 🔧 Tackle complex technical challenges with creative solutions
+- 📚 Exchange knowledge, insights, and best practices
 
-Feel free to reach out!
+Let’s make something amazing together — feel free to reach out anytime!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/zeyad-waled-3504a9295/">
