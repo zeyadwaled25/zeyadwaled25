@@ -49,9 +49,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeyadwaled25&theme=react&hide_border=true" />
 </div>
 
----
+<br>
 
-## 📊 Contribution Graph  
+## 📊 Contribution Graph:
 
 ![Zeyad's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zeyadwaled25&theme=react-dark&hide_border=true)
 
