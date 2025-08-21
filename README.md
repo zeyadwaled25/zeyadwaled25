@@ -19,12 +19,11 @@
 
 ## 👨‍🎓 About Me: 
 
-🎓 A student at the College of Artificial Intelligence, Junior Front-End Development Track  
-- 🎨 Experienced in building and designing effective user interfaces  
-- 📊 Background in data analysis  
-- 🧠 Foundational knowledge in software engineering  
-- 🧩 Strong problem-solving skills and clean, scalable code writing
-
+- 🎓 Student at the College of Artificial Intelligence — Front-End Development Track
+- 🎨 Passionate about creating intuitive, modern, and responsive user interfaces
+- 📊 Solid background in data analysis with strong problem-solving skills
+- 🧠 Good foundation in software engineering and scalable code practices
+- 🚀 Always eager to learn, collaborate, and build impactful projects
 
 <br>
 
