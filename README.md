@@ -70,10 +70,10 @@
 I’m always excited to take on new challenges and work on innovative ideas.
 Whether you’re looking to:
 
-- 🤖 Build scalable and high-performance web applications
-- 🎨 Design engaging and user-friendly interfaces
-- 🔧 Tackle complex technical challenges with creative solutions
-- 📚 Exchange knowledge, insights, and best practices
+- 🤖 Develop scalable and high-performance web apps.
+- 🎨 Craft engaging and user-friendly designs.
+- 🔧 Solve challenging technical problems creatively.
+- 📚 Share knowledge and grow together.
 
 Let’s make something amazing together — feel free to reach out anytime!
 
