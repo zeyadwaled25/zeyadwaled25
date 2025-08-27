@@ -29,7 +29,7 @@
 ## 🛠️ Tech Stack => void
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,ts,tailwind,redux,nextjs,figma,git,github,vscode,postman,npm,python,sklearn,c#" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,ts,tailwind,redux,nextjs,figma,git,github,vscode,postman,npm,python,sklearn,csharp" />
 </p>
 
 
