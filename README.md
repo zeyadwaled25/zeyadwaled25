@@ -32,7 +32,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,ts,tailwind,redux,nextjs,figma,git,github,vscode,postman,npm,python,sklearn,c#" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,ts,tailwind,redux,nextjs,figma,git,github,vscode,postman,npm,python,sklearn,c%23" alt="Tech Stack Icons" />
 </p>
 
 ## 📈 GitHub Stats
