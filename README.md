@@ -58,7 +58,7 @@
 
 ---
 
-## 🤝 Let's Connect & Collaborate
+## Let's Connect & Collaborate
 
 I’m always excited to take on new challenges and work on innovative ideas.
 Whether you’re looking to:
