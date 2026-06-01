@@ -14,12 +14,12 @@
 
 ## 📌 Quick Navigation
 
-- [👨‍🎓 About Me](#-about-me)
-- [🛠️ Tech Stack](#️-tech-stack)
-- [📈 GitHub Stats](#-github-stats)
-- [📊 Contribution Graph](#-contribution-graph)
-- [🏆 GitHub Trophies](#-github-trophies)
-- [🤝 Let's Connect & Collaborate](#-lets-connect--collaborate)
+- [👨‍🎓 About Me](#about-me)
+- [🛠️ Tech Stack](#tech-stack)
+- [📈 GitHub Stats](#github-stats)
+- [📊 Contribution Graph](#contribution-graph)
+- [🏆 GitHub Trophies](#github-trophies)
+- [🤝 Let's Connect & Collaborate](#lets-connect--collaborate)
 
 ## 👨‍🎓 About Me
 
@@ -63,10 +63,10 @@
 I’m always excited to take on new challenges and work on innovative ideas.
 Whether you’re looking to:
 
-- 🤖 Develop scalable and high-performance web apps
-- 🎨 Craft engaging and user-friendly designs
-- 🔧 Solve challenging technical problems creatively
-- 📚 Share knowledge and grow together
+- 🤖 Develop scalable and high-performance web apps.
+- 🎨 Craft engaging and user-friendly designs.
+- 🔧 Solve challenging technical problems creatively.
+- 📚 Share knowledge and grow together.
 
 Let’s make something amazing together — feel free to reach out anytime!
 
