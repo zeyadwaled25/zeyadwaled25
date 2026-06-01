@@ -19,7 +19,7 @@
 - [📈 GitHub Stats](#github-stats)
 - [📊 Contribution Graph](#contribution-graph)
 - [🏆 GitHub Trophies](#github-trophies)
-- [🤝 Let's Connect & Collaborate](#lets-connect--collaborate)
+- [🤝 Let's Connect & Collaborate](#lets-connect-collaborate)
 
 ## 👨‍🎓 About Me
 
@@ -32,7 +32,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,ts,tailwind,redux,nextjs,figma,git,github,vscode,postman,npm,python,sklearn,c%23" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,ts,tailwind,redux,nextjs,figma,git,github,vscode,postman,npm,python,sklearn,cs" alt="Tech Stack Icons" />
 </p>
 
 ## 📈 GitHub Stats
@@ -58,6 +58,7 @@
 
 ---
 
+<a id="lets-connect-collaborate"></a>
 ### Let's Connect & Collaborate
 
 I’m always excited to take on new challenges and work on innovative ideas.
