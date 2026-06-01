@@ -21,6 +21,7 @@
 - [🏆 GitHub Trophies](#github-trophies)
 - [🤝 Let's Connect & Collaborate](#lets-connect-collaborate)
 
+<a id="about-me"></a>
 ## 👨‍🎓 About Me
 
 - 🎓 Student at the College of Artificial Intelligence — Front-End Development Track
@@ -29,12 +30,14 @@
 - 🧠 Good foundation in software engineering and scalable code practices
 - 🚀 Always eager to learn, collaborate, and build impactful projects
 
+<a id="tech-stack"></a>
 ## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,ts,tailwind,redux,nextjs,figma,git,github,vscode,postman,npm,python,sklearn,cs" alt="Tech Stack Icons" />
 </p>
 
+<a id="github-stats"></a>
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -46,10 +49,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeyadwaled25&theme=react&hide_border=true" alt="GitHub Streak" />
 </div>
 
+<a id="contribution-graph"></a>
 ## 📊 Contribution Graph
 
 ![Zeyad's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zeyadwaled25&theme=react-dark&hide_border=true)
 
+<a id="github-trophies"></a>
 ## 🏆 GitHub Trophies
 
 <div align="center">
