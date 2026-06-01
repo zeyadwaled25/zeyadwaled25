@@ -1,6 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=0CE82B&background=FFFFFF00&center=true&vCenter=true&width=800&lines=Welcome+to+Zeyad+Waled's+Profile!;Front-End+Developer" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=1000&lines=Welcome+to+Zeyad+Waled's+Profile!;Artificial+Intelligence+Student;Front-End+Developer;AI+Engineer;Building+Scalable+Web+Apps;Exploring+Machine+Learning+%26+LLMs;Turning+Ideas+Into+Impactful+Products" alt="Typing SVG" />
 </div>
+
+<h3 align="center">
+  Front-End Developer • AI Engineer • ML Specialist
+</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/zeyad-waled-3504a9295/">
@@ -10,9 +14,11 @@
     <img src="https://img.shields.io/badge/-zeyadwaled165@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=zeyadwaled25&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/zeyadwaled25?style=flat-square&color=blue" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/zeyadwaled25?style=flat-square&color=yellow" alt="Stars"/>
 </div>
 
-## 📌 Quick Navigation
+## Quick Navigation
 
 - [👨‍🎓 About Me](#about-me)
 - [🛠️ Tech Stack](#tech-stack)
@@ -24,17 +30,18 @@
 <a id="about-me"></a>
 ## 👨‍🎓 About Me
 
-- 🎓 Student at the College of Artificial Intelligence — Front-End Development Track
-- 🎨 Passionate about creating intuitive, modern, and responsive user interfaces
-- 📊 Solid background in data analysis with strong problem-solving skills
-- 🧠 Good foundation in software engineering and scalable code practices
-- 🚀 Always eager to learn, collaborate, and build impactful projects
+- 🎓 Artificial Intelligence Student at the Faculty of Artificial Intelligence
+- ⚛️ Front-End Developer specializing in React, Next.js, TypeScript, and modern web technologies
+- 🤖 AI Engineer Enthusiast with hands-on experience in Machine Learning, LLMs, RAG Systems, and AI Automation
+- 📊 Strong analytical mindset with experience in Data Analysis and Software Engineering
+- 🛠️ Building full-stack and AI-powered projects that solve real-world problems
+- 🚀 Dedicated to continuous learning, innovation, and delivering impactful digital solutions
 
 <a id="tech-stack"></a>
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,ts,tailwind,redux,nextjs,figma,git,github,vscode,postman,npm,python,sklearn,cs" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,ts,tailwind,redux,nextjs,nodejs,express,mongodb,firebase,figma,git,github,vscode,postman,npm,python,tensorflow,pytorch,docker" />
 </p>
 
 <a id="github-stats"></a>
@@ -66,15 +73,17 @@
 <a id="lets-connect-collaborate"></a>
 ### Let's Connect & Collaborate
 
-I’m always excited to take on new challenges and work on innovative ideas.
-Whether you’re looking to:
+I'm always excited to collaborate on innovative projects and explore new opportunities in Web Development and Artificial Intelligence.
 
-- 🤖 Develop scalable and high-performance web apps.
-- 🎨 Craft engaging and user-friendly designs.
-- 🔧 Solve challenging technical problems creatively.
-- 📚 Share knowledge and grow together.
+Whether you're looking to:
 
-Let’s make something amazing together — feel free to reach out anytime!
+- ⚛️ Build modern, scalable, and high-performance web applications.
+- 🤖 Develop AI-powered solutions, intelligent workflows, or automation systems.
+- 🎨 Create intuitive, responsive, and user-centered digital experiences.
+- 📊 Turn data and ideas into actionable insights and impactful products.
+- 🚀 Collaborate on open-source projects, startups, or innovative ideas.
+
+Let's build something meaningful together and turn great ideas into reality!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/zeyad-waled-3504a9295/">
